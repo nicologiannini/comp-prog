@@ -1,4 +1,4 @@
 # py-comp-prog
-Competitive programming python template and more.
+Competitive programming template, resources and more.
 
 [Codeforces](https://www.codeforces.com)
