@@ -1,6 +1,6 @@
 # Algorithms
 
-(Competitive Programmer's Handbook)[https://cses.fi/book/book.pdf] by Antti Laaksonen
+[Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) by Antti Laaksonen
 
 ## Introduction to Algorithms 6.006
 
