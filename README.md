@@ -1,4 +1,4 @@
 # comp-prog
-Competitive programming template, resources and more.
+Competitive programming templates, resources and more.
 
 [Codeforces](https://www.codeforces.com)
