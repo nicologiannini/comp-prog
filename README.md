@@ -1,4 +1,5 @@
-# comp-prog
-Competitive programming templates, resources and more.
+# Competitive Programming Resources
+
+A collection of templates, data structures, algorithms, and problem sets for competitive programming.
 
 [Codeforces](https://www.codeforces.com)
